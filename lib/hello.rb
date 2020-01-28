@@ -1,4 +1,4 @@
-def hello_t(array)
+def hello_t(["tim", "tom", "jim"])
   i = 0 
   
   while i < array.length 
